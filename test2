@@ -1,0 +1,2141 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "yt_ad_an",
+            "value": "afv,dclk"
+          },
+          {
+            "key": "yt_ad_pr",
+            "value": "1"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0x36b4fc2c1c4ad270"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20180317"
+          },
+          {
+            "key": "yt_li",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "e",
+            "value": "23708904,23708906,23708910,23710476,23712283,23713711,23716256,23721593,23721699,23721898,23722414,23723208,23723618,23726171,23727194,23729572,23729690,23729713,23730604,23730641,23731204,23731309,23731435,23731441,3300104,3300130,3300161,3313321,3314088,9422596,9431754,9437898,9440168,9449243,9458231,9471662,9475644,9485000,9486108,9486215,9488455"
+          },
+          {
+            "key": "logged_in",
+            "value": "1"
+          },
+          {
+            "key": "pn",
+            "value": "watch"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "creator_channel_id",
+            "value": "UCapmv0GPLR35cK2ds9oxPNw"
+          },
+          {
+            "key": "logged_in",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.name",
+            "value": "WEB"
+          },
+          {
+            "key": "client.version",
+            "value": "2.20180317"
+          },
+          {
+            "key": "innertube.build.changelist",
+            "value": "189433523"
+          },
+          {
+            "key": "innertube.build.experiments.source_version",
+            "value": "189754136"
+          },
+          {
+            "key": "innertube.build.label",
+            "value": "youtube.ytfe.jserv_20180316_9_RC0"
+          },
+          {
+            "key": "innertube.build.timestamp",
+            "value": "1521264537"
+          },
+          {
+            "key": "innertube.build.variants.checksum",
+            "value": "bb7c5225ea41d9950c2555bef112263a"
+          },
+          {
+            "key": "innertube.run.job",
+            "value": "ytfe-jserv-replica-only.ytfe"
+          }
+        ]
+      }
+    ],
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadBandaidUrls": [
+          "https://r5---sn-f5f7lne6.googlevideo.com/generate_204",
+          "https://r5---sn-f5f7lne6.googlevideo.com/generate_204?conn2"
+        ]
+      },
+      "ytConfigData": {
+        "csn": "EV-xWu-tJort7QTmk7G4AQ",
+        "visitorData": "CgtFNEk2NS1IbEI5SQ%3D%3D",
+        "sessionIndex": 0,
+        "rootVisualElementType": 3832
+      },
+      "feedbackDialog": {
+        "polymerOptOutFeedbackDialogRenderer": {
+          "title": {
+            "runs": [
+              {
+                "text": "Przykro nam, że rezygnujesz z naszej usługi."
+              }
+            ]
+          },
+          "subtitle": {
+            "runs": [
+              {
+                "text": "Wyjaśnij nam powody. Twoja opinia pomoże nam ulepszyć YouTube. Pamiętaj, że w każdej chwili możesz wrócić do nowego wyglądu strony. Wystarczy, że wejdziesz na "
+              },
+              {
+                "text": "youtube.com/new",
+                "navigationEndpoint": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://www.youtube.com/new"
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://www.youtube.com/new"
+                  }
+                }
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          "options": [
+            {
+              "polymerOptOutFeedbackOptionRenderer": {
+                "optionKey": "missing",
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Czegoś tu brakuje"
+                    }
+                  ]
+                },
+                "responsePlaceholder": {
+                  "runs": [
+                    {
+                      "text": "Przekaż nam więcej informacji"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "polymerOptOutFeedbackOptionRenderer": {
+                "optionKey": "broken",
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Pewne funkcje nie działają poprawnie"
+                    }
+                  ]
+                },
+                "responsePlaceholder": {
+                  "runs": [
+                    {
+                      "text": "Przekaż nam więcej informacji"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "polymerOptOutFeedbackOptionRenderer": {
+                "optionKey": "harder",
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Niektórych funkcji trudniej się używa"
+                    }
+                  ]
+                },
+                "responsePlaceholder": {
+                  "runs": [
+                    {
+                      "text": "Przekaż nam więcej informacji"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "polymerOptOutFeedbackOptionRenderer": {
+                "optionKey": "dislike",
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Nie podoba mi się nowy wygląd"
+                    }
+                  ]
+                },
+                "responsePlaceholder": {
+                  "runs": [
+                    {
+                      "text": "Przekaż nam więcej informacji"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "polymerOptOutFeedbackOptionRenderer": {
+                "optionKey": "unlisted",
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Mam inny powód"
+                    }
+                  ]
+                },
+                "responsePlaceholder": {
+                  "runs": [
+                    {
+                      "text": "Przekaż nam więcej informacji"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "polymerOptOutFeedbackNullOptionRenderer": {
+                "description": {
+                  "runs": [
+                    {
+                      "text": "Wolę nie odpowiadać"
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "disclaimer": {
+            "runs": [
+              {
+                "text": "Otwórz "
+              },
+              {
+                "text": "stronę Pomoc prawna",
+                "navigationEndpoint": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://support.google.com/youtube/bin/answer.py?answer=140536"
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://support.google.com/youtube/bin/answer.py?answer=140536"
+                  }
+                }
+              },
+              {
+                "text": ", aby poprosić o zmianę treści z powodów prawnych. Twoja opinia, dodatkowe informacje i adres e-mail zostaną przekazane Google. Przeczytaj "
+              },
+              {
+                "text": "Politykę prywatności",
+                "navigationEndpoint": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://www.google.com/policies/privacy/"
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://www.google.com/policies/privacy/"
+                  }
+                }
+              },
+              {
+                "text": " oraz "
+              },
+              {
+                "text": "Warunki korzystania z usługi",
+                "navigationEndpoint": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://www.google.com/policies/terms/"
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://www.google.com/policies/terms/"
+                  }
+                }
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          "dismissButton": {
+            "buttonRenderer": {
+              "style": "STYLE_TEXT",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Nie, dziękuję"
+                  }
+                ]
+              }
+            }
+          },
+          "submitButton": {
+            "buttonRenderer": {
+              "style": "STYLE_BRAND",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": true,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Wyślij"
+                  }
+                ]
+              }
+            }
+          },
+          "closeButton": {
+            "buttonRenderer": {
+              "style": "STYLE_DEFAULT",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "icon": {
+                "iconType": "CLOSE"
+              }
+            }
+          },
+          "cancelButton": {
+            "buttonRenderer": {
+              "style": "STYLE_TEXT",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Anuluj"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "liveStreamability": {
+      "liveStreamabilityRenderer": {
+        "videoId": "7pQ9SWRE8EY",
+        "broadcastId": "1",
+        "pollDelayMs": "7500"
+      }
+    }
+  },
+  "playerAds": [
+    {
+      "playerLegacyDesktopWatchAdsRenderer": {
+        "playerAdParams": {
+          "adTag": "https://pubads.g.doubleclick.net/gampad/ads?ad_rule=0\u0026avo=AF-6KjLKXX4LQP9vpN3FM_1oXhGHl16uX2BDxuMtomxe2FQbdsjTrq1sk_3xqv9kHLMab3MHoxuWEe93k_TUwSLPYWXqnq-wCg\u0026ciu_szs=300x250,300x60\u0026env=vp\u0026gdfp_req=1\u0026iu=/4061/com.ytpwatch.scitech\u0026osd=2\u0026output=xml_vast3\u0026pucrd=CggIABAAGAM4AXgC\u0026scor=1\u0026scp=av%3D1%26kpeid%3DR9gdpWisRwnk_k23GsHfcA%26kpid%3D15177251%26kpu%3DWorldCryptoNetwork%26kvid%3D7pQ9SWRE8EY%26mpvid%3D850Utk9i2pnmFHIk%26ssl%3D1%26afv%3D1%26dbp%3DChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA%26dc_yt%3D1%26excl_cat%3D15177251%26k2%3D7,107,814%26k2pfy%3D1%26k18%3D1%26k21%3D1%26k5%3D7_107_814%26kage%3D25%26kar%3D4%26kauth%3D1%26kcountry%3Dpl%26kga%3D1002%26kgender%3Dm%26kgg%3D1%26kgpt%3D1%26klg%3Dpl%26kmyd%3Dwatch-longform-ad%26ko%3Dp%26kr%3DH%26kvlg%3Den%26kvz%3D204%26nlfb%3D1%26pos%3Dpre%26yt3pav%3D1%26ytcat%3D28%26ytdevice%3D1%26ytdevicever%3D2.20180317%26ytexp%3D9422596,9488991,23705779,23712283,23729713,23730641%26yt_ec%3D4%26yt_ec2%3D14%26yt_vrallowed%3D1%26yt_viral%3D1\u0026sdki=18803DED\u0026sz=480x361%7C480x70\u0026unviewed_position_start=1\u0026vid=7pQ9SWRE8EY\u0026vpos=preroll\u0026ytdevice=1\u0026yt_pt=APb3F2-odoyVcVuBuJbRqdSKQrIZW-foNe9VziNLzEaDEIB2jvveMnzTJh4pv5uAIZReCTvdwOo6CAP7iMOhQE85ZQw_F7u4-4dIM3SB3EFpfba36BAsT3TtrJzVw4mpaELkSqs_fcSBgdAPvghQJ7fAo4zUi41GP7ld8tYdag",
+          "asLaunchedInCountry": "1",
+          "adFlags": 0,
+          "adPreroll": "1",
+          "invideo": true,
+          "dclk": true,
+          "gutTag": "/4061/ytpwatch",
+          "afvAdTag": "https://googleads.g.doubleclick.net/pagead/ads?ad_type=text_image\u0026avo=AF-6KjLKXX4LQP9vpN3FM_1oXhGHl16uX2BDxuMtomxe2FQbdsjTrq1sk_3xqv9kHLMab3MHoxuWEe93k_TUwSLPYWXqnq-wCg\u0026channel=Vertical_107%2BVertical_7%2BVertical_814%2Bafv_overlay%2Bafv_user_id_R9gdpWisRwnk_k23GsHfcA%2Bafv_user_worldcryptonetwork%2Binvideo_overlay_480x70_cat28%2Bivp%2Byt_bs2%2Byt_cid_15177251%2Byt_mpvid_850Utk9i2pnmFHIk%2Byt_no_ap%2Byt_no_cp%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180317%2Bytel_detailpage%2Bytps_default\u0026client=ca-pub-6219811747049371\u0026cust_age=1002\u0026cust_gender=1\u0026dbp=ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA\u0026description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F7pQ9SWRE8EY\u0026eid=187930153\u0026hl=pl\u0026host=ca-host-pub-9398024143370130\u0026ht_id=5084142\u0026loeid=9422596,9488991,23705779,23712283,23729713,23730641\u0026osd=2\u0026pucrd=CggIABAAGAM4AXgC\u0026sdki=18803DED\u0026u_ab=1\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F7pQ9SWRE8EY\u0026v_p=DceFBz8lw2QnRDWHPXw_\u0026ytdevice=1\u0026ytdevicever=2.20180317\u0026yt_pt=APb3F2-odoyVcVuBuJbRqdSKQrIZW-foNe9VziNLzEaDEIB2jvveMnzTJh4pv5uAIZReCTvdwOo6CAP7iMOhQE85ZQw_F7u4-4dIM3SB3EFpfba36BAsT3TtrJzVw4mpaELkSqs_fcSBgdAPvghQJ7fAo4zUi41GP7ld8tYdag\u0026yt_vis=0",
+          "tagForChildDirected": false,
+          "loeid": "9422596,9488991,23705779,23712283,23729713,23730641",
+          "adDevice": 1,
+          "cafeExperimentId": "187930153",
+          "adsenseVideoDocId": "yt_7pQ9SWRE8EY",
+          "adSlots": "0",
+          "trueview": true,
+          "midrollFreqcap": 420,
+          "mpvid": "850Utk9i2pnmFHIk",
+          "mpu": true,
+          "afv": true,
+          "sffb": true,
+          "adLoggingFlag": 1,
+          "showContentThumbnail": true,
+          "cid": 15177251,
+          "pyvAdChannel": "PyvWatchInRelated+PyvWatchNoAdX+PyvYTWatch+YtLoPri+afv_user_id_R9gdpWisRwnk_k23GsHfcA+afv_user_worldcryptonetwork+ivp+non_lpw+pw+yt_cid_15177251+yt_mpvid_850Utk9i2pnmFHIk+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_2.20180317",
+          "showPyvInRelated": true,
+          "allowHtml5Ads": 1,
+          "instreamLong": false,
+          "dbp": "Ch4KFndiNHMtX09WXzlQYlJuQzBHNmNnTEEQASABKAAQARgC",
+          "gptMigration": 1,
+          "midrollPrefetchSize": 1,
+          "ad3Module": 1,
+          "vmap": "\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\u003cvmap:VMAP xmlns:vmap=\"http://www.iab.net/videosuite/vmap\" xmlns:yt=\"http://youtube.com\" version=\"1.0\"\u003e\u003cvmap:AdBreak breakType=\"linear\" timeOffset=\"start\"\u003e\u003cvmap:AdSource allowMultipleAds = \"false\"\u003e\u003cvmap:AdTagURI\u003e\u003c![CDATA[https://www.youtube.com/get_midroll_info?ei=EV-xWu-tJort7QTmk7G4AQ\u0026m_pos=0\u0026index=0\u0026token=AJR4EFSah3UU0CZCeiXn6J-FBPUWm3Rb7uHJY9jtS4EWYmj0we5ZpGwXary15RsySnk4-COqXSfBV553B6-DprRRqSwctvweM65vsVpJCIR-SemIW8yTmBpA7KkqMM1dcC1j_KZ-Gmo-sBYO5dvPJdCU0musfk5uOTs1o-kT8e0uH3uw2ycBBDzkMElgUqZNXFM9i03OS9gLm8gde8ptzNJHbJRZ8TN6bJ8ZHIpGW2HrvtQsWJEIPwJtzRnbEHFqWoeh_E_MaFNrFgSwj3v6mc8jv088iT5R1Ldmo3GAUYk8pqylljVycyy75EfxwBXTdTLnS_iiWg8pSy2LSDQm5jipfgGaVf9duw\u0026ad_block=[AD_BLOCK]\u0026cpn=[CPN]\u0026lact=-1\u0026tsla=[TSLA]\u0026vis=[VIS]\u0026bid=[BISCOTTI_ID]\u0026dt=[DT]\u0026flash=[FLASH]\u0026frm=[FRM]\u0026ca_type=[CA_TYPE]\u0026u_tz=[U_TZ]\u0026u_his=[U_HIS]\u0026u_java=[U_JAVA]\u0026u_h=[U_H]\u0026u_w=[U_W]\u0026u_ah=[U_AH]\u0026u_aw=[U_AW]\u0026u_cd=[U_CD]\u0026u_nplug=[U_NPLUG]\u0026u_nmime=[U_NMIME]\u0026c=WEB\u0026cver=2.20180317]]\u003e\u003c/vmap:AdTagURI\u003e\u003c/vmap:AdSource\u003e\u003cvmap:TrackingEvents\u003e\u003cvmap:Tracking event=\"error\"\u003e\u003c![CDATA[https://www.youtube.com/api/stats/ads?ver=2\u0026ns=1\u0026event=1\u0026device=1\u0026content_v=7pQ9SWRE8EY\u0026el=detailpage\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026devicever=2.20180317\u0026break_type=[BREAK_TYPE]\u0026conn=[CONN]\u0026cpn=[CPN]\u0026lact=[LACT]\u0026m_pos=[MIDROLL_POS]\u0026mt=[MT]\u0026p_h=[P_H]\u0026p_w=[P_W]\u0026rwt=[RWT]\u0026sdkv=[SDKV]\u0026slot_pos=[SLOT_POS]\u0026vis=[VIS]\u0026vol=[VOL]\u0026wt=[WT]]]\u003e\u003c/vmap:Tracking\u003e\u003c/vmap:TrackingEvents\u003e\u003cvmap:Extensions\u003e\u003cvmap:Extension type=\"YouTube\"\u003e\u003cyt:BreakProperty break_type=\"BREAK_TYPE_PRE_ROLL\"/\u003e\u003c/vmap:Extension\u003e\u003c/vmap:Extensions\u003e\u003c/vmap:AdBreak\u003e\u003cvmap:Extensions\u003e\u003cvmap:Extension type=\"YouTube\"\u003e\u003cTrackingDecoration match=\"^https?://((([a-z][a-z0-9.-]*\\.)?(youtube|corp\\.google).com/api/stats/ads)|((www\\.)?youtube\\.com/pagead/psul))\" headers=\"device,user\"/\u003e\u003cTrackingMacro match=\"^https?://(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com/\" macros=\"device_id\"/\u003e\u003cRegexUriMacroValidator\u003e\u003cMacroToRegexUris macro=\"NIELSEN_DEVICE_ID\"\u003e\u003cRegexUri value=\"^https?://(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com/\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"COMSCORE_DEVICE_ID\"\u003e\u003cRegexUri value=\"^https?://(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com/\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"MOAT_INIT\"\u003e\u003cRegexUri value=\"^https?://yts\\.moatads\\.com\"/\u003e\u003cRegexUri value=\"^https?://yts-testing\\.moatads\\.com\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/pagead/gen_204\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/activeview/3pty/moat-secure\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"MOAT_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?://[^.]*\\.moatads\\.com\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/pagead/gen_204\"/\u003e\u003cRegexUri value=\"^https?://pubads\\.g\\.doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/activeview/3pty/moat\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"IAS_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?://pm\\.adsafeprotected\\.com/youtube\"/\u003e\u003cRegexUri value=\"^https?://pm\\.test-adsafeprotected\\.com/youtube\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/pagead/gen_204\"/\u003e\u003cRegexUri value=\"^https?://pubads\\.g\\.doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/activeview/3pty/ias\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"DV_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?://e[0-9]+\\.yt\\.srs\\.doubleverify\\.com\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/pagead/gen_204\"/\u003e\u003cRegexUri value=\"^https?://pubads\\.g\\.doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com/activeview/3pty/doubleverify\"/\u003e\u003c/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"GOOGLE_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?://pagead2\\.googlesyndication\\.com\"/\u003e\u003cRegexUri value=\"^https?://pubads\\.g\\.doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://googleads\\.g\\.doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://([a-z0-9]+\\.)*youtube\\.com\"/\u003e\u003cRegexUri value=\"^https?://ad[\\.-]([a-z0-9]+\\.){0,1}doubleclick\\.net\"/\u003e\u003cRegexUri value=\"^https?://ade\\.googlesyndication\\.com\"/\u003e\u003c/MacroToRegexUris\u003e\u003c/RegexUriMacroValidator\u003e\u003c/vmap:Extension\u003e\u003c/vmap:Extensions\u003e\u003c/vmap:VMAP\u003e",
+          "fadeOutStartMilliseconds": 0,
+          "fadeOutDurationMilliseconds": 1000,
+          "fadeInStartMilliseconds": -3000,
+          "fadeInDurationMilliseconds": 1000,
+          "applyFadeOnMidrolls": true,
+          "coreDbp": "ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA",
+          "enabledEngageTypes": "1,3,4,5,6,17",
+          "allowBelowThePlayerCompanion": true,
+          "encodedAdSafetyReason": "CgIgAw"
+        },
+        "afvParams": {
+          "googleAdBlock": "2",
+          "googleAdChannel": "0854550288+Vertical_107+Vertical_7+Vertical_814+afv_user_id_R9gdpWisRwnk_k23GsHfcA+afv_user_worldcryptonetwork+ivp+yt_cid_15177251+yt_mpvid_850Utk9i2pnmFHIk+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_2.20180317+ytel_detailpage+ytps_default",
+          "googleAdClient": "ca-pub-6219811747049371",
+          "googleAdFormat": "300x250_as",
+          "googleAdHeight": "250",
+          "googleAdHost": "ca-host-pub-9398024143370130",
+          "googleAdHostTierId": "5084142",
+          "googleAdType": "image",
+          "googleCustAge": "1002",
+          "googleCustGender": "1",
+          "googleEids": [
+            "187930153"
+          ],
+          "googleLact": "-1",
+          "googleLanguage": "pl",
+          "googleLoeid": "9422596,9488991,23705779,23712283,23729713,23730641",
+          "googlePageUrl": "http://www.youtube.com/video/7pQ9SWRE8EY",
+          "googleVideoDocId": "yt_7pQ9SWRE8EY",
+          "googleYtPt": "APb3F29U6s2F7gRcW4XR9Xk_BfqPCRgpxDpTDNbDCksKgEmFXCnJiPDhxCW8qfydBM-yiGunbaq7YYKEDWKqTA52m8blHqjzBSS8YGMMWXbWcVJGJJKoReuh8SRKe0fbOIQ8NKOCF5XBMhdIMrXgW57_jnESiH6pXLRbc6Y5Zg",
+          "googleCoreDbp": "ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA",
+          "googlePucrd": "CggIABAAGAM4AXgC"
+        },
+        "afcParams": {
+          "adBlock": "2",
+          "adChannel": "0854550287+Vertical_107+Vertical_7+Vertical_814+afc_on_page+afv_user_id_R9gdpWisRwnk_k23GsHfcA+afv_user_worldcryptonetwork+ivp+yt_cid_15177251+yt_mpvid_850Utk9i2pnmFHIk+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_2.20180317+ytel_detailpage+ytps_default",
+          "adClient": "ca-pub-6219811747049371",
+          "adHost": "ca-host-pub-9398024143370130",
+          "adHostTierId": "5084142",
+          "adType": "image",
+          "format": "300x250_as",
+          "lact": "-1",
+          "language": "pl",
+          "videoDocId": "yt_7pQ9SWRE8EY",
+          "coreDbp": "ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA",
+          "eids": [
+            "187930153"
+          ],
+          "loeid": "9422596,9488991,23705779,23712283,23729713,23730641",
+          "pucrd": "CggIABAAGAM4AXgC"
+        },
+        "pyvParams": {
+          "googleAdBlock": "3",
+          "googleAdChannel": "PyvWatchInRelated+PyvWatchNoAdX+PyvYTWatch+YtLoPri+afv_user_id_R9gdpWisRwnk_k23GsHfcA+afv_user_worldcryptonetwork+ivp+non_lpw+pw+yt_cid_15177251+yt_mpvid_850Utk9i2pnmFHIk+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_2.20180317",
+          "googleAdClient": "ca-pub-6219811747049371",
+          "googleAdOutput": "js",
+          "googleAdHost": "ca-host-pub-9398024143370130",
+          "googleAdHostTierId": "5084142",
+          "googleAdType": "text",
+          "googleCustAge": "1002",
+          "googleCustGender": "1",
+          "googleEids": "187930153",
+          "googleLanguage": "pl",
+          "googleLoeid": "9422596,9488991,23705779,23712283,23729713,23730641",
+          "googleMaxNumAds": 1,
+          "googleOnlyPyvAds": true,
+          "googlePageUrl": "http://www.youtube.com/video/7pQ9SWRE8EY",
+          "googleVideoDocId": "yt_7pQ9SWRE8EY",
+          "googleYtPt": "APb3F2-odoyVcVuBuJbRqdSKQrIZW-foNe9VziNLzEaDEIB2jvveMnzTJh4pv5uAIZReCTvdwOo6CAP7iMOhQE85ZQw_F7u4-4dIM3SB3EFpfba36BAsT3TtrJzVw4mpaELkSqs_fcSBgdAPvghQJ7fAo4zUi41GP7ld8tYdag",
+          "googleCoreDbp": "ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA"
+        },
+        "gutParams": {
+          "tag": "/4061/ytpwatch"
+        },
+        "showAfv": true,
+        "showCompanion": true,
+        "showInstream": true,
+        "showPyv": true,
+        "useGut": true,
+        "monetized": true,
+        "displayAds": {
+          "pyvAdTag": "https://googleads.g.doubleclick.net/pagead/lopri?ad_block=3\u0026ad_type=text\u0026adk=511001906\u0026channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2BYtLoPri%2Bafv_user_id_R9gdpWisRwnk_k23GsHfcA%2Bafv_user_worldcryptonetwork%2Bnon_lpw%2Bpw%2Byt_cid_15177251%2Byt_mpvid_850Utk9i2pnmFHIk%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20180317\u0026client=ca-pub-6219811747049371\u0026correlator=1521573649885\u0026cust_age=1002\u0026cust_gender=1\u0026dbp=ChZ3YjRzLV9PVl85UGJSbkMwRzZjZ0xBEAEgASgA\u0026ea=0\u0026eae=2\u0026eid=187930153\u0026hl=pl\u0026host=ca-host-pub-9398024143370130\u0026ht_id=5084142\u0026isw=0\u0026ish=0\u0026lact=-1\u0026loc=EMPTY\u0026loeid=9422596,9488991,23705779,23712283,23729713,23730641\u0026num_ads=1\u0026output=js\u0026pucrd=CggIABAAGAM4AXgC\u0026pyv=1\u0026top=https%3A//www.youtube.com/watch%3Fv%3D7pQ9SWRE8EY%26app%3Ddesktop\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F7pQ9SWRE8EY\u0026video_doc_id=yt_7pQ9SWRE8EY\u0026ytdevicever=ytdevicever_2.20180317\u0026yt_pt=APb3F2-odoyVcVuBuJbRqdSKQrIZW-foNe9VziNLzEaDEIB2jvveMnzTJh4pv5uAIZReCTvdwOo6CAP7iMOhQE85ZQw_F7u4-4dIM3SB3EFpfba36BAsT3TtrJzVw4mpaELkSqs_fcSBgdAPvghQJ7fAo4zUi41GP7ld8tYdag"
+        }
+      }
+    }
+  ],
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/playback?fexp=23708904%2C23708906%2C23708910%2C23710476%2C23712283%2C23713711%2C23716256%2C23721593%2C23721699%2C23721898%2C23722414%2C23723208%2C23723618%2C23726171%2C23727194%2C23729572%2C23729690%2C23729713%2C23730604%2C23730641%2C23731204%2C23731309%2C23731435%2C23731441%2C3300104%2C3300130%2C3300161%2C3313321%2C3314088%2C9422596%2C9431754%2C9437898%2C9440168%2C9449243%2C9458231%2C9471662%2C9475644%2C9485000%2C9486108%2C9486215%2C9488455\u0026referrer=https%3A%2F%2Fl.facebook.com%2F\u0026uga=m25\u0026len=712\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026of=wb4s-_OV_9PbRnC0G6cgLA\u0026cl=189433523\u0026docid=7pQ9SWRE8EY\u0026ns=yt\u0026el=detailpage\u0026plid=AAVn3PjnEJtM8wI9\u0026sourceid=r\u0026vm=CAEQARgE\u0026sdetail=p%3Al.facebook.com%2F"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/delayplay?fexp=23708904%2C23708906%2C23708910%2C23710476%2C23712283%2C23713711%2C23716256%2C23721593%2C23721699%2C23721898%2C23722414%2C23723208%2C23723618%2C23726171%2C23727194%2C23729572%2C23729690%2C23729713%2C23730604%2C23730641%2C23731204%2C23731309%2C23731435%2C23731441%2C3300104%2C3300130%2C3300161%2C3313321%2C3314088%2C9422596%2C9431754%2C9437898%2C9440168%2C9449243%2C9458231%2C9471662%2C9475644%2C9485000%2C9486108%2C9486215%2C9488455\u0026referrer=https%3A%2F%2Fl.facebook.com%2F\u0026uga=m25\u0026len=712\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026of=wb4s-_OV_9PbRnC0G6cgLA\u0026cl=189433523\u0026docid=7pQ9SWRE8EY\u0026ns=yt\u0026el=detailpage\u0026plid=AAVn3PjnEJtM8wI9\u0026sourceid=r\u0026vm=CAEQARgE\u0026sdetail=p%3Al.facebook.com%2F"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/watchtime?fexp=23708904%2C23708906%2C23708910%2C23710476%2C23712283%2C23713711%2C23716256%2C23721593%2C23721699%2C23721898%2C23722414%2C23723208%2C23723618%2C23726171%2C23727194%2C23729572%2C23729690%2C23729713%2C23730604%2C23730641%2C23731204%2C23731309%2C23731435%2C23731441%2C3300104%2C3300130%2C3300161%2C3313321%2C3314088%2C9422596%2C9431754%2C9437898%2C9440168%2C9449243%2C9458231%2C9471662%2C9475644%2C9485000%2C9486108%2C9486215%2C9488455\u0026referrer=https%3A%2F%2Fl.facebook.com%2F\u0026uga=m25\u0026len=712\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026of=wb4s-_OV_9PbRnC0G6cgLA\u0026cl=189433523\u0026docid=7pQ9SWRE8EY\u0026ns=yt\u0026el=detailpage\u0026plid=AAVn3PjnEJtM8wI9\u0026sourceid=r\u0026vm=CAEQARgE\u0026sdetail=p%3Al.facebook.com%2F"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https://www.youtube.com/ptracking?oid=cxEurq-5XSER_z0jchbT5Q\u0026video_id=7pQ9SWRE8EY\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026pltype=content\u0026plid=AAVn3PjnEJtM8wI9\u0026ptk=youtube_single\u0026ptchn=R9gdpWisRwnk_k23GsHfcA"
+    },
+    "qoeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/qoe?fexp=23708904%2C23708906%2C23708910%2C23710476%2C23712283%2C23713711%2C23716256%2C23721593%2C23721699%2C23721898%2C23722414%2C23723208%2C23723618%2C23726171%2C23727194%2C23729572%2C23729690%2C23729713%2C23730604%2C23730641%2C23731204%2C23731309%2C23731435%2C23731441%2C3300104%2C3300130%2C3300161%2C3313321%2C3314088%2C9422596%2C9431754%2C9437898%2C9440168%2C9449243%2C9458231%2C9471662%2C9475644%2C9485000%2C9486108%2C9486215%2C9488455\u0026referrer=https%3A%2F%2Fl.facebook.com%2F\u0026docid=7pQ9SWRE8EY\u0026cl=189433523\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026event=streamingstats\u0026plid=AAVn3PjnEJtM8wI9\u0026ns=yt\u0026sourceid=r\u0026sdetail=p%3Al.facebook.com%2F"
+    },
+    "setAwesomeUrl": {
+      "baseUrl": "https://www.youtube.com/set_awesome?video_id=7pQ9SWRE8EY\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026plid=AAVn3PjnEJtM8wI9",
+      "elapsedMediaTimeSeconds": 120
+    },
+    "addVideoToHistory": false,
+    "atrUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/atr?len=712\u0026ei=EV-xWu-tJort7QTmk7G4AQ\u0026docid=7pQ9SWRE8EY\u0026plid=AAVn3PjnEJtM8wI9\u0026ns=yt\u0026ver=2",
+      "elapsedMediaTimeSeconds": 5
+    }
+  },
+  "captions": {
+    "playerCaptionsRenderer": {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=7pQ9SWRE8EY\u0026xorp=True\u0026expire=1521598849\u0026asr_langs=fr%2Cpt%2Cnl%2Ces%2Cit%2Cde%2Cen%2Cja%2Cko%2Cru\u0026sparams=asr_langs%2Ccaps%2Cv%2Cxorp%2Cexpire\u0026caps=asr\u0026key=yttt1\u0026signature=89B9AF6E08D7B56AD20D1720C73AA9BD491AF67A.21B4C954304C6A78169CB87E01BEF45F58D2671A\u0026hl=pl_PL",
+      "visibility": "UNKNOWN"
+    },
+    "playerCaptionsTracklistRenderer": {
+      "captionTracks": [
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=7pQ9SWRE8EY\u0026xorp=True\u0026expire=1521598849\u0026asr_langs=fr%2Cpt%2Cnl%2Ces%2Cit%2Cde%2Cen%2Cja%2Cko%2Cru\u0026sparams=asr_langs%2Ccaps%2Cv%2Cxorp%2Cexpire\u0026caps=asr\u0026key=yttt1\u0026signature=89B9AF6E08D7B56AD20D1720C73AA9BD491AF67A.21B4C954304C6A78169CB87E01BEF45F58D2671A\u0026hl=pl_PL\u0026kind=asr\u0026lang=en",
+          "name": {
+            "simpleText": "Angielski (wygenerowane automatycznie)"
+          },
+          "vssId": "a.en",
+          "languageCode": "en",
+          "kind": "asr",
+          "isTranslatable": true
+        }
+      ],
+      "audioTracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ],
+          "visibility": "UNKNOWN"
+        }
+      ],
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": {
+            "simpleText": "Afrikaans"
+          }
+        },
+        {
+          "languageCode": "sq",
+          "languageName": {
+            "simpleText": "Albański"
+          }
+        },
+        {
+          "languageCode": "am",
+          "languageName": {
+            "simpleText": "Amharski"
+          }
+        },
+        {
+          "languageCode": "en",
+          "languageName": {
+            "simpleText": "Angielski"
+          }
+        },
+        {
+          "languageCode": "ar",
+          "languageName": {
+            "simpleText": "Arabski"
+          }
+        },
+        {
+          "languageCode": "az",
+          "languageName": {
+            "simpleText": "Azerbejdżański"
+          }
+        },
+        {
+          "languageCode": "eu",
+          "languageName": {
+            "simpleText": "Baskijski"
+          }
+        },
+        {
+          "languageCode": "bn",
+          "languageName": {
+            "simpleText": "Bengalski"
+          }
+        },
+        {
+          "languageCode": "be",
+          "languageName": {
+            "simpleText": "Białoruski"
+          }
+        },
+        {
+          "languageCode": "my",
+          "languageName": {
+            "simpleText": "Birmański"
+          }
+        },
+        {
+          "languageCode": "bs",
+          "languageName": {
+            "simpleText": "Bośniacki"
+          }
+        },
+        {
+          "languageCode": "bg",
+          "languageName": {
+            "simpleText": "Bułgarski"
+          }
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": {
+            "simpleText": "Cebuano"
+          }
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": {
+            "simpleText": "Chiński (Tradycyjne)"
+          }
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": {
+            "simpleText": "Chiński (Uproszczone)"
+          }
+        },
+        {
+          "languageCode": "hr",
+          "languageName": {
+            "simpleText": "Chorwacki"
+          }
+        },
+        {
+          "languageCode": "cs",
+          "languageName": {
+            "simpleText": "Czeski"
+          }
+        },
+        {
+          "languageCode": "da",
+          "languageName": {
+            "simpleText": "Duński"
+          }
+        },
+        {
+          "languageCode": "eo",
+          "languageName": {
+            "simpleText": "Esperanto"
+          }
+        },
+        {
+          "languageCode": "et",
+          "languageName": {
+            "simpleText": "Estoński"
+          }
+        },
+        {
+          "languageCode": "fil",
+          "languageName": {
+            "simpleText": "Filipino"
+          }
+        },
+        {
+          "languageCode": "fi",
+          "languageName": {
+            "simpleText": "Fiński"
+          }
+        },
+        {
+          "languageCode": "fr",
+          "languageName": {
+            "simpleText": "Francuski"
+          }
+        },
+        {
+          "languageCode": "gl",
+          "languageName": {
+            "simpleText": "Galicyjski"
+          }
+        },
+        {
+          "languageCode": "el",
+          "languageName": {
+            "simpleText": "Grecki"
+          }
+        },
+        {
+          "languageCode": "ka",
+          "languageName": {
+            "simpleText": "Gruziński"
+          }
+        },
+        {
+          "languageCode": "gu",
+          "languageName": {
+            "simpleText": "Gudżarati"
+          }
+        },
+        {
+          "languageCode": "ha",
+          "languageName": {
+            "simpleText": "Hausa"
+          }
+        },
+        {
+          "languageCode": "haw",
+          "languageName": {
+            "simpleText": "Hawajski"
+          }
+        },
+        {
+          "languageCode": "iw",
+          "languageName": {
+            "simpleText": "Hebrajski"
+          }
+        },
+        {
+          "languageCode": "hi",
+          "languageName": {
+            "simpleText": "Hindi"
+          }
+        },
+        {
+          "languageCode": "es",
+          "languageName": {
+            "simpleText": "Hiszpański"
+          }
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": {
+            "simpleText": "Hmong"
+          }
+        },
+        {
+          "languageCode": "ig",
+          "languageName": {
+            "simpleText": "Igbo"
+          }
+        },
+        {
+          "languageCode": "id",
+          "languageName": {
+            "simpleText": "Indonezyjski"
+          }
+        },
+        {
+          "languageCode": "ga",
+          "languageName": {
+            "simpleText": "Irlandzki"
+          }
+        },
+        {
+          "languageCode": "is",
+          "languageName": {
+            "simpleText": "Islandzki"
+          }
+        },
+        {
+          "languageCode": "ja",
+          "languageName": {
+            "simpleText": "Japoński"
+          }
+        },
+        {
+          "languageCode": "jv",
+          "languageName": {
+            "simpleText": "Jawajski"
+          }
+        },
+        {
+          "languageCode": "yi",
+          "languageName": {
+            "simpleText": "Jidysz"
+          }
+        },
+        {
+          "languageCode": "yo",
+          "languageName": {
+            "simpleText": "Joruba"
+          }
+        },
+        {
+          "languageCode": "kn",
+          "languageName": {
+            "simpleText": "Kannada"
+          }
+        },
+        {
+          "languageCode": "ca",
+          "languageName": {
+            "simpleText": "Kataloński"
+          }
+        },
+        {
+          "languageCode": "kk",
+          "languageName": {
+            "simpleText": "Kazachski"
+          }
+        },
+        {
+          "languageCode": "km",
+          "languageName": {
+            "simpleText": "Khmerski"
+          }
+        },
+        {
+          "languageCode": "xh",
+          "languageName": {
+            "simpleText": "Khosa"
+          }
+        },
+        {
+          "languageCode": "ky",
+          "languageName": {
+            "simpleText": "Kirgiski"
+          }
+        },
+        {
+          "languageCode": "ko",
+          "languageName": {
+            "simpleText": "Koreański"
+          }
+        },
+        {
+          "languageCode": "co",
+          "languageName": {
+            "simpleText": "Korsykański"
+          }
+        },
+        {
+          "languageCode": "ht",
+          "languageName": {
+            "simpleText": "Kreolski Haitański"
+          }
+        },
+        {
+          "languageCode": "ku",
+          "languageName": {
+            "simpleText": "Kurdyjski"
+          }
+        },
+        {
+          "languageCode": "lo",
+          "languageName": {
+            "simpleText": "Laotański"
+          }
+        },
+        {
+          "languageCode": "lt",
+          "languageName": {
+            "simpleText": "Litewski"
+          }
+        },
+        {
+          "languageCode": "lb",
+          "languageName": {
+            "simpleText": "Luksemburski"
+          }
+        },
+        {
+          "languageCode": "la",
+          "languageName": {
+            "simpleText": "Łaciński"
+          }
+        },
+        {
+          "languageCode": "lv",
+          "languageName": {
+            "simpleText": "Łotewski"
+          }
+        },
+        {
+          "languageCode": "mk",
+          "languageName": {
+            "simpleText": "Macedoński"
+          }
+        },
+        {
+          "languageCode": "ml",
+          "languageName": {
+            "simpleText": "Malajalam"
+          }
+        },
+        {
+          "languageCode": "ms",
+          "languageName": {
+            "simpleText": "Malajski"
+          }
+        },
+        {
+          "languageCode": "mg",
+          "languageName": {
+            "simpleText": "Malgaski"
+          }
+        },
+        {
+          "languageCode": "mt",
+          "languageName": {
+            "simpleText": "Maltański"
+          }
+        },
+        {
+          "languageCode": "mi",
+          "languageName": {
+            "simpleText": "Maoryjski"
+          }
+        },
+        {
+          "languageCode": "mr",
+          "languageName": {
+            "simpleText": "Marathi"
+          }
+        },
+        {
+          "languageCode": "mn",
+          "languageName": {
+            "simpleText": "Mongolski"
+          }
+        },
+        {
+          "languageCode": "ne",
+          "languageName": {
+            "simpleText": "Nepalski"
+          }
+        },
+        {
+          "languageCode": "nl",
+          "languageName": {
+            "simpleText": "Niderlandzki"
+          }
+        },
+        {
+          "languageCode": "de",
+          "languageName": {
+            "simpleText": "Niemiecki"
+          }
+        },
+        {
+          "languageCode": "ny",
+          "languageName": {
+            "simpleText": "Njandża"
+          }
+        },
+        {
+          "languageCode": "no",
+          "languageName": {
+            "simpleText": "Norweski"
+          }
+        },
+        {
+          "languageCode": "hy",
+          "languageName": {
+            "simpleText": "Ormiański"
+          }
+        },
+        {
+          "languageCode": "ps",
+          "languageName": {
+            "simpleText": "Paszto"
+          }
+        },
+        {
+          "languageCode": "pa",
+          "languageName": {
+            "simpleText": "Pendżabski"
+          }
+        },
+        {
+          "languageCode": "fa",
+          "languageName": {
+            "simpleText": "Perski"
+          }
+        },
+        {
+          "languageCode": "pl",
+          "languageName": {
+            "simpleText": "Polski"
+          }
+        },
+        {
+          "languageCode": "pt",
+          "languageName": {
+            "simpleText": "Portugalski"
+          }
+        },
+        {
+          "languageCode": "ru",
+          "languageName": {
+            "simpleText": "Rosyjski"
+          }
+        },
+        {
+          "languageCode": "ro",
+          "languageName": {
+            "simpleText": "Rumuński"
+          }
+        },
+        {
+          "languageCode": "sm",
+          "languageName": {
+            "simpleText": "Samoański"
+          }
+        },
+        {
+          "languageCode": "sr",
+          "languageName": {
+            "simpleText": "Serbski"
+          }
+        },
+        {
+          "languageCode": "sn",
+          "languageName": {
+            "simpleText": "Shona"
+          }
+        },
+        {
+          "languageCode": "sd",
+          "languageName": {
+            "simpleText": "Sindhi"
+          }
+        },
+        {
+          "languageCode": "sk",
+          "languageName": {
+            "simpleText": "Słowacki"
+          }
+        },
+        {
+          "languageCode": "sl",
+          "languageName": {
+            "simpleText": "Słoweński"
+          }
+        },
+        {
+          "languageCode": "so",
+          "languageName": {
+            "simpleText": "Somalijski"
+          }
+        },
+        {
+          "languageCode": "st",
+          "languageName": {
+            "simpleText": "Sotho Południowy"
+          }
+        },
+        {
+          "languageCode": "sw",
+          "languageName": {
+            "simpleText": "Suahili"
+          }
+        },
+        {
+          "languageCode": "su",
+          "languageName": {
+            "simpleText": "Sundajski"
+          }
+        },
+        {
+          "languageCode": "si",
+          "languageName": {
+            "simpleText": "Syngaleski"
+          }
+        },
+        {
+          "languageCode": "gd",
+          "languageName": {
+            "simpleText": "Szkocki Gaelicki"
+          }
+        },
+        {
+          "languageCode": "sv",
+          "languageName": {
+            "simpleText": "Szwedzki"
+          }
+        },
+        {
+          "languageCode": "tg",
+          "languageName": {
+            "simpleText": "Tadżycki"
+          }
+        },
+        {
+          "languageCode": "th",
+          "languageName": {
+            "simpleText": "Tajski"
+          }
+        },
+        {
+          "languageCode": "ta",
+          "languageName": {
+            "simpleText": "Tamilski"
+          }
+        },
+        {
+          "languageCode": "te",
+          "languageName": {
+            "simpleText": "Telugu"
+          }
+        },
+        {
+          "languageCode": "tr",
+          "languageName": {
+            "simpleText": "Turecki"
+          }
+        },
+        {
+          "languageCode": "uk",
+          "languageName": {
+            "simpleText": "Ukraiński"
+          }
+        },
+        {
+          "languageCode": "ur",
+          "languageName": {
+            "simpleText": "Urdu"
+          }
+        },
+        {
+          "languageCode": "uz",
+          "languageName": {
+            "simpleText": "Uzbecki"
+          }
+        },
+        {
+          "languageCode": "cy",
+          "languageName": {
+            "simpleText": "Walijski"
+          }
+        },
+        {
+          "languageCode": "hu",
+          "languageName": {
+            "simpleText": "Węgierski"
+          }
+        },
+        {
+          "languageCode": "vi",
+          "languageName": {
+            "simpleText": "Wietnamski"
+          }
+        },
+        {
+          "languageCode": "it",
+          "languageName": {
+            "simpleText": "Włoski"
+          }
+        },
+        {
+          "languageCode": "fy",
+          "languageName": {
+            "simpleText": "Zachodniofryzyjski"
+          }
+        },
+        {
+          "languageCode": "zu",
+          "languageName": {
+            "simpleText": "Zulu"
+          }
+        }
+      ],
+      "defaultAudioTrackIndex": 0
+    }
+  },
+  "videoDetails": {
+    "videoId": "7pQ9SWRE8EY",
+    "title": "Today in Bitcoin (2018-03-12) - Bitcoin Bullish? - McAfee predicts $1M - Mainstream Media Humor FUD",
+    "lengthSeconds": "711",
+    "keywords": [
+      "bitcoin",
+      "ethereum",
+      "cryptocurrency",
+      "news",
+      "entertainment",
+      "opinion",
+      "#hangoutsonair",
+      "Hangouts On Air",
+      "#hoa"
+    ],
+    "channelId": "UCR9gdpWisRwnk_k23GsHfcA",
+    "isOwnerViewing": false,
+    "shortDescription": "Donate Bitcoin: 3NqhJSAikoFiYmZm3ACGzdw9Lr86ZiLT7K\nSupport the Show: https://www.patreon.com/madbitcoins\n\nListen to WCN Audio Podcasts: \nhttps://itunes.apple.com/us/podcast/world-crypto-network/id825708806?mt=2\n\nCheck out the brand new http://WorldCryptoNetwork.com/\n\nFollow WCN on Twitter:  https://twitter.com/WorldCryptoNet\n\nTrack the Mayer Multiple on WCN: https://www.worldcryptonetwork.com/price\n\n‎9214.14 USD / BTC - Average United States Dollar Bitcoin Price\nhttps://bitcoinaverage.com/en/bitcoin-price/btc-to-usd\nhttp://www.btcsatoshi.com/\n\nBTC-USD Price | World Crypto Network\nhttps://www.worldcryptonetwork.com/price\n\nInvestors bullish on bitcoin now that the 'Tokyo Whale' has stopped selling\nhttps://www.cnbc.com/2018/03/12/investors-bullish-on-bitcoin-now-that-the-tokyo-whale-has-stopped-selling.html\n\nBitcoin Price Will Hit $1 Million by 2020 Says John McAfee | Investopedia\nhttps://www.investopedia.com/news/mcafee-tracker-predicts-1-bitcoin1m-2020/\n\nAnother Exchange Jumps on Bitcoin Bandwagon - WSJ\nhttps://www.wsj.com/articles/another-exchange-jumps-on-bitcoin-bandwagon-1520868955\n\nStudy Finds $3B Worth of Faked Cryptocurrency Volumes and Wash Trades - Bitcoin News\nhttps://news.bitcoin.com/study-finds-3b-worth-of-faked-cryptocurrency-volumes-and-wash-trades/\n\nThe 1130ET Bitcoin-Battering Continues | Zero Hedge\nhttps://www.zerohedge.com/news/2018-03-12/1130et-bitcoin-battering-continues\n\nWe Need To Shut Bitcoin And All Other Cryptocurrencies Down. Here's Why.\nhttps://www.forbes.com/sites/jasonbloomberg/2018/03/10/we-need-to-shut-bitcoin-and-all-other-cryptocurrencies-down-heres-why/#61cfeafc1bca\n\nBlockchain Technology Talk is Largely Nonsense - Bitcoin News\nhttps://news.bitcoin.com/blockchain-technology-talk-is-largely-nonsense/\n\ndrinomarino on Twitter: \"First bitcoin monument!… \"\nhttps://twitter.com/jernejdrinovec/status/973132095097851904\n\nPomp  on Twitter: \"The first Bitcoin monument has been erected in Slovenia at a traffic circle. (H/t @jernejdrinovec)… \"\nhttps://twitter.com/APompliano/status/973227088374362113\n\nArmin van Bitcoin  on Twitter: \"All of my friends talk about running their own business one day, but just can't get the time for it now. You see, after work, they need some time to watch hours of TV shows, Netflix, sports and play video games. https://t.co/I1gxxdVJYF\"\nhttps://twitter.com/ArminVanBitcoin/status/973237682234167296\n\nMMXVIII on Twitter: \"All the money in the world can't buy you a soul  \"\nhttps://twitter.com/dblmsey/status/972936260904878081\n\nMad Bitcoins on Twitter: \"What the hell? #vegas “Tell those douchebags at coinbase to bite you.” #bitcoin… \"\nhttps://twitter.com/MadBitcoins/status/972915439784288256\n\nMad Bitcoins on Twitter: \"Always invest responsibly. Warning. The crypto currency house of cards may fall as fast a stripper’s g-string. We cannot confirm not deny that those associated with Coinbase are douchebags but if it looks like a duck, quacks like a duck, it’s probably a duck. #bitcoin… https://t.co/j4U4h1jWuO\"\nhttps://twitter.com/MadBitcoins/status/972916044984561664\n\nMad Bitcoins on Twitter: \"Not that I’m looking forward to eating at the Heart Attack Grill (where they promise three hard spankings if you don’t finish your meal and all customers are required to wear hospital gowns) but they do have a #bitcoin atm.… https://t.co/1fEEMUNUZj\"\nhttps://twitter.com/MadBitcoins/status/972917037436567552\n\nTaylor Good on Twitter: \". Worth adding the billboard I just saw in Vegas..… \"\nhttps://twitter.com/taylorgood/status/972932837128134656\n\nMad Bitcoins on Twitter: \"#bitcoin #vegas… \"\nhttps://twitter.com/MadBitcoins/status/972918167499456512\n\nMad Bitcoins on Twitter: \"Hey hey #Vegas! Join us Tuesday at 7:00 pm at Nacho Daddy (113 N. 4th St.) Near Fremont St. Experience and The D Hotel. #bitcoin… https://t.co/6wJkKue5yh\"\nhttps://twitter.com/MadBitcoins/status/972990286375759872",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7pQ9SWRE8EY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB\u0026rs=AOn4CLAfVH2HCUSmrW5Nu2hZo-yhqzOYtg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7pQ9SWRE8EY/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB\u0026rs=AOn4CLDUFAY7LA8N3stWIbBNkI3u_QonOQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7pQ9SWRE8EY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLDSeKAp_X5OpxepIIXIEwsgBgP_GA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7pQ9SWRE8EY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLCxmDv25cBPYzKqS1gUPJqjz7beRQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    "averageRating": 4.8100891,
+    "allowRatings": true,
+    "viewCount": "5946",
+    "author": "World Crypto Network",
+    "isLowLatencyLiveStream": true,
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_LOW"
+  },
+  "annotations": [
+    {
+      "playerAnnotationsUrlsRenderer": {
+        "invideoUrl": "https://www.youtube.com/annotations_invideo?cap_hist=1\u0026video_id=7pQ9SWRE8EY\u0026client=1",
+        "loadPolicy": "ALWAYS",
+        "allowInPlaceSwitch": false
+      }
+    }
+  ],
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": 0.64100075,
+      "perceptualLoudnessDb": -20.358999
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "6830000"
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i9.ytimg.com/sb/7pQ9SWRE8EY/storyboard3_L$L/$N.jpg|48#27#100#10#10#0#default#rs$AOn4CLDM9N_cS8_6pgGgMxXjDWu2ubpS_A|80#45#144#10#10#5000#M$M#rs$AOn4CLCZPZbTMvkVGTWvGDJBXSNse_adqg|160#90#144#5#5#5000#M$M#rs$AOn4CLClIG_PpNMm3gkxC2qtQjHtOfOZ8w"
+    }
+  },
+  "trackingParams": "CAEQu2kiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+  "attestation": {
+    "playerAttestationRenderer": {
+      "challenge": "a=3\u0026b=Ty39vcIYr5bEHtQk5kKUe17o238\u0026c=1521573649\u0026d=1\u0026e=7pQ9SWRE8EY\u0026c3a=13\u0026c1a=1\u0026c6a=1\u0026hh=B2MEA8NPxeQWoVOO1u1MfSUKRvPcHZICT4R_lfhTnvk",
+      "botguardData": {
+        "program": "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",
+        "interpreterUrl": "//www.google.com/js/bg/lSvH2GMDHdWiQ5txKk8DBwe8KHVpOosizyQXSe1BYYE.js"
+      }
+    }
+  },
+  "topbar": {
+    "desktopTopbarRenderer": {
+      "logo": {
+        "topbarLogoRenderer": {
+          "iconImage": {
+            "iconType": "YOUTUBE_LOGO"
+          },
+          "tooltipText": {
+            "runs": [
+              {
+                "text": "Strona główna YouTube"
+              }
+            ]
+          },
+          "endpoint": {
+            "clickTrackingParams": "CBcQsV4iEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/",
+                "webPageType": "WEB_PAGE_TYPE_BROWSE"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "FEwhat_to_watch"
+            }
+          },
+          "trackingParams": "CBcQsV4iEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+        }
+      },
+      "searchbox": {
+        "fusionSearchboxRenderer": {
+          "icon": {
+            "iconType": "SEARCH"
+          },
+          "placeholderText": {
+            "runs": [
+              {
+                "text": "Szukaj"
+              }
+            ]
+          },
+          "config": {
+            "webSearchboxConfig": {
+              "requestLanguage": "pl",
+              "requestDomain": "pl",
+              "hasOnscreenKeyboard": true,
+              "focusSearchbox": true
+            }
+          },
+          "trackingParams": "CBYQ7VAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+          "searchEndpoint": {
+            "clickTrackingParams": "CBYQ7VAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/results?search_query=",
+                "webPageType": "WEB_PAGE_TYPE_SEARCH"
+              }
+            },
+            "searchEndpoint": {
+              "query": ""
+            }
+          }
+        }
+      },
+      "trackingParams": "CAIQq6wBIhMIr_qKx8_72QIVinabCh3mSQwXKPgd",
+      "countryCode": "PL",
+      "topbarButtons": [
+        {
+          "topbarMenuButtonRenderer": {
+            "icon": {
+              "iconType": "VIDEO_CALL"
+            },
+            "menuRenderer": {
+              "multiPageMenuRenderer": {
+                "sections": [
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "CREATION_UPLOAD"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "Prześlij film"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBUQ898CGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/upload"
+                                }
+                              },
+                              "uploadEndpoint": {
+                                "hack": true
+                              }
+                            },
+                            "trackingParams": "CBUQ898CGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "CREATION_LIVE"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "Rozpocznij transmisję na żywo"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBQQ9N8CGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://www.youtube.com/webcam"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://www.youtube.com/webcam"
+                              }
+                            },
+                            "trackingParams": "CBQQ9N8CGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                            "secondaryNotificationText": {
+                              "runs": [
+                                {
+                                  "text": "Nowy"
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "trackingParams": "CBMQ968BGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                    }
+                  }
+                ],
+                "trackingParams": "CBIQ_6sBIhMIr_qKx8_72QIVinabCh3mSQwXKPgd",
+                "style": "MULTI_PAGE_MENU_STYLE_TYPE_CREATION"
+              }
+            },
+            "trackingParams": "CBEQ_qsBGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "accessibility": {
+              "accessibilityData": {
+                "label": "Utwórz"
+              }
+            },
+            "tooltip": "Utwórz",
+            "style": "STYLE_DEFAULT"
+          }
+        },
+        {
+          "topbarMenuButtonRenderer": {
+            "icon": {
+              "iconType": "APPS"
+            },
+            "menuRenderer": {
+              "multiPageMenuRenderer": {
+                "sections": [
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "UNPLUGGED_LOGO"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube TV"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBAQ4MUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://tv.youtube.com/?utm_source=youtube_web\u0026utm_medium=ep\u0026utm_campaign=home\u0026ve=34273"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://tv.youtube.com/?utm_source=youtube_web\u0026utm_medium=ep\u0026utm_campaign=home\u0026ve=34273",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CBAQ4MUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "COLORED_GAMING_LOGO"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube Gaming"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CA8Q4cUCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://gaming.youtube.com"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://gaming.youtube.com",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CA8Q4cUCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        }
+                      ],
+                      "trackingParams": "CA4Q968BGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                    }
+                  },
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_MUSIC"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "Muzyka YouTube"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CA0Q4sUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://music.youtube.com"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://music.youtube.com",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CA0Q4sUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_KIDS_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube dla dzieci"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAwQ48UCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://kids.youtube.com"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://kids.youtube.com",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAwQ48UCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        }
+                      ],
+                      "trackingParams": "CAsQ968BGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                    }
+                  },
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "Akademia twórców"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAoQ5MUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://creatoracademy.youtube.com/page/education?utm_source=YouTube\u0026utm_medium=YT%20Main\u0026utm_campaign=YT%20Appsn"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://creatoracademy.youtube.com/page/education?utm_source=YouTube\u0026utm_medium=YT%20Main\u0026utm_campaign=YT%20Appsn",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAoQ5MUCGAAiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube dla artystów"
+                                }
+                              ]
+                            },
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CAkQ5cUCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://artists.youtube.com/"
+                                }
+                              },
+                              "urlEndpoint": {
+                                "url": "https://artists.youtube.com/",
+                                "target": "TARGET_NEW_WINDOW"
+                              }
+                            },
+                            "trackingParams": "CAkQ5cUCGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                          }
+                        }
+                      ],
+                      "trackingParams": "CAgQ968BGAIiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+                    }
+                  }
+                ],
+                "trackingParams": "CAcQ_6sBIhMIr_qKx8_72QIVinabCh3mSQwXKPgd"
+              }
+            },
+            "trackingParams": "CAYQ_qsBGAEiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "accessibility": {
+              "accessibilityData": {
+                "label": "Aplikacje YouTube"
+              }
+            },
+            "tooltip": "Aplikacje YouTube",
+            "style": "STYLE_DEFAULT"
+          }
+        },
+        {
+          "notificationTopbarButtonRenderer": {
+            "icon": {
+              "iconType": "NOTIFICATIONS"
+            },
+            "menuRequest": {
+              "clickTrackingParams": "CAUQovoBGAIiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "GET_NOTIFICATIONS_MENU"
+              }
+            },
+            "style": "NOTIFICATION_BUTTON_STYLE_TYPE_DEFAULT",
+            "trackingParams": "CAUQovoBGAIiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "accessibility": {
+              "accessibilityData": {
+                "label": "Powiadomienia"
+              }
+            },
+            "tooltip": "Powiadomienia",
+            "updateUnseenCountEndpoint": {
+              "clickTrackingParams": "CAUQovoBGAIiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "GET_UNSEEN_NOTIFICATION_COUNT"
+              }
+            },
+            "notificationCount": 0,
+            "handlerDatas": [
+              "NOTIFICATION_ACTION_UPDATE_UNSEEN_COUNT"
+            ],
+            "getHighPriorityNotificationEndpoint": {
+              "clickTrackingParams": "CAUQovoBGAIiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "GET_HIGH_PRIORITY_NOTIFICATION"
+              }
+            }
+          }
+        },
+        {
+          "topbarMenuButtonRenderer": {
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/-uDi9yI-Z6zM/AAAAAAAAAAI/AAAAAAAAAAA/953K5QI604s/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                  "width": 88,
+                  "height": 88
+                }
+              ],
+              "webThumbnailDetailsExtensionData": {
+                "excludeFromVpl": true
+              }
+            },
+            "menuRequest": {
+              "clickTrackingParams": "CAQQ_qsBGAMiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "getAccountMenuEndpoint": {
+                "hack": true
+              }
+            },
+            "trackingParams": "CAQQ_qsBGAMiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0=",
+            "accessibility": {
+              "accessibilityData": {
+                "label": "Zdjęcie profilowe konta, które wyświetla listę alternatywnych kont"
+              }
+            },
+            "tooltip": "Zdjęcie profilowe konta, które wyświetla listę alternatywnych kont"
+          }
+        }
+      ],
+      "hotkeyDialog": {
+        "hotkeyDialogRenderer": {
+          "title": {
+            "runs": [
+              {
+                "text": "Skróty klawiszowe"
+              }
+            ]
+          },
+          "sections": [
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Globalne"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Poprzedni film"
+                          }
+                        ]
+                      },
+                      "hotkey": "P (SHIFT+p)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Następny film"
+                          }
+                        ]
+                      },
+                      "hotkey": "N (SHIFT+n)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do tyłu o 10 sekund"
+                          }
+                        ]
+                      },
+                      "hotkey": "j"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do przodu o 10 sekund"
+                          }
+                        ]
+                      },
+                      "hotkey": "l"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Włączanie/wyłączanie dźwięku"
+                          }
+                        ]
+                      },
+                      "hotkey": "m"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Odtwarzanie/wstrzymywanie"
+                          }
+                        ]
+                      },
+                      "hotkey": "k"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do tyłu o jak najmniejszy fragment, gdy film jest wstrzymany"
+                          }
+                        ]
+                      },
+                      "hotkey": ","
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do przodu o jak najmniejszy fragment, gdy film jest wstrzymany"
+                          }
+                        ]
+                      },
+                      "hotkey": "."
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmniejszenie szybkości odtwarzania"
+                          }
+                        ]
+                      },
+                      "hotkey": "\u003c (SHIFT+,)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zwiększenie szybkości odtwarzania"
+                          }
+                        ]
+                      },
+                      "hotkey": "\u003e (SHIFT+.)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przełączanie trybu pełnoekranowego"
+                          }
+                        ]
+                      },
+                      "hotkey": "f"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Po kliknięciu odtwarzacza"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do tyłu o 5 sekund"
+                          }
+                        ]
+                      },
+                      "hotkey": "LEFT"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do przodu o 5 sekund"
+                          }
+                        ]
+                      },
+                      "hotkey": "RIGHT"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zwiększenie głośności o 5%"
+                          }
+                        ]
+                      },
+                      "hotkey": "UP"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmniejszenie głośności o 5%"
+                          }
+                        ]
+                      },
+                      "hotkey": "DOWN"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zamknięcie bieżącego okna dialogowego lub podobnych okien (panel udostępniania)"
+                          }
+                        ]
+                      },
+                      "hotkey": "ESCAPE"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przechodzenie do początku filmu"
+                          }
+                        ]
+                      },
+                      "hotkey": "HOME"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewinięcie do końca filmu"
+                          }
+                        ]
+                      },
+                      "hotkey": "END"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Włączanie i wyłączanie napisów, jeśli znajdują się one w filmie"
+                          }
+                        ]
+                      },
+                      "hotkey": "c"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmiana poziomu przezroczystości tekstu"
+                          }
+                        ]
+                      },
+                      "hotkey": "o"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmiana poziomu przezroczystości okna"
+                          }
+                        ]
+                      },
+                      "hotkey": "w"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmiana rozmiaru czcionki (powiększanie)"
+                          }
+                        ]
+                      },
+                      "hotkey": "+"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Zmiana rozmiaru czcionki (pomniejszenie)"
+                          }
+                        ]
+                      },
+                      "hotkey": "-"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przewijanie do konkretnego momentu filmu (klawisz 7 przewija 70% czasu trwania filmu)"
+                          }
+                        ]
+                      },
+                      "hotkey": "0..9"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przesunięcie do góry podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "w"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przesunięcie w lewo podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "a"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przesunięcie w dół podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "s"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przesunięcie w prawo podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "d"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Przybliżenie podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "+ on numpad or ]"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "Oddalenie podczas oglądania filmu sferycznego"
+                          }
+                        ]
+                      },
+                      "hotkey": "- on numpad or ["
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "dismissButton": {
+            "buttonRenderer": {
+              "style": "STYLE_BRAND",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "simpleText": "Zamknij"
+              },
+              "trackingParams": "CAMQ8FsiEwiv-orHz_vZAhWKdpsKHeZJDBco-B0="
+            }
+          }
+        }
+      }
+    }
+  },
+  "adSafetyReason": {}
+}
