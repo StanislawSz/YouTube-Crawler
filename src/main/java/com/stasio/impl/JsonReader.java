@@ -91,10 +91,22 @@ public class JsonReader {
                     .getJSONObject("videoDetails")
                     .getString("title");
         } catch (JSONException ex) {
-            System.err.println(ex.getClass().getSimpleName() + " w " + this.getClass().getSimpleName() + ".videoDescription(): Nie udalo sie otworzyc opisu filmu");
+            System.err.println(ex.getClass().getSimpleName() + " w " + this.getClass().getSimpleName() + ".videoTitle(): Nie udalo sie otworzyc tytulu filmu");
         }
 
-        System.out.println(title);
+        return title;
+    }
+
+    public String videoAuthor(String jsonText) {
+        String title = "";
+        try {
+            title = new JSONObject(jsonText)
+                    .getJSONObject("videoDetails")
+                    .getString("author");
+        } catch (JSONException ex) {
+            System.err.println(ex.getClass().getSimpleName() + " w " + this.getClass().getSimpleName() + ".videoAuthor(): Nie udalo sie otworzyc autora filmu");
+        }
+
         return title;
     }
 }

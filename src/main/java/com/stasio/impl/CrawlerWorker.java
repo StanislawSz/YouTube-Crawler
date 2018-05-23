@@ -1,5 +1,6 @@
 package com.stasio.impl;
 
+import com.stasio.Main;
 import com.stasio.interfaces.ScanInfo;
 import org.jsoup.HttpStatusException;
 import org.jsoup.UnsupportedMimeTypeException;
@@ -42,6 +43,7 @@ public class CrawlerWorker implements Runnable {
                 ScanInfo info = crawler.scanPage("https://www.youtube.com" + currentPage);
 
                 if (info.isContainingWord(WORDS)) {
+                    SendToDatabase.send(currentPage, info.getVideoInfo(), info.getWallet());
                     System.out.println(currentPage);
                     Main.linksWithMatch.add(currentPage);
                 }

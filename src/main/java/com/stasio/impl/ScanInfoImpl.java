@@ -11,6 +11,7 @@ public class ScanInfoImpl implements ScanInfo {
 
     private LinkedList<String> links;
     private VideoInfo videoInfo;
+    private String wallet;
 
     public ScanInfoImpl(LinkedList<String> links, VideoInfo info) {
         this.links = links;
@@ -37,7 +38,15 @@ public class ScanInfoImpl implements ScanInfo {
         Pattern pattern=Pattern.compile("\\s+((bc1|[13])[a-zA-HJ-NP-Z0-9]{25,39})\\s+");
         Matcher matcher= pattern.matcher(description);
 
-        return matcher.find();
+        boolean match;
+
+        match = matcher.find();
+
+        if (match) {
+            wallet = matcher.group(1);
+        }
+
+        return match;
 
     }
 
@@ -46,4 +55,11 @@ public class ScanInfoImpl implements ScanInfo {
         return videoInfo.getTags();
     }
 
+    public VideoInfo getVideoInfo() {
+        return videoInfo;
+    }
+
+    public String getWallet() {
+        return wallet;
+    }
 }

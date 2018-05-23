@@ -10,17 +10,18 @@ import java.util.HashSet;
 import java.util.LinkedList;
 
 public class CrawlerImpl implements Crawler {
-    private final String USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36";
     private Document document;
     private JsonReader jsonReader;
+
 
     public CrawlerImpl() {
         jsonReader = new JsonReader();
     }
 
     public ScanInfo scanPage(String URL) throws IOException {
+//        System.setProperty("javax.net.ssl.trustStore",path);
+        String USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36";
         document = Jsoup.connect(URL).userAgent(USER_AGENT).get();
-
         return new ScanInfoImpl(findLinks(), findVideoInfo());
     }
 
@@ -47,10 +48,10 @@ public class CrawlerImpl implements Crawler {
 
         String description = jsonReader.videoDescription(jsonText);
         HashSet<String> tags = jsonReader.videoTags(jsonText);
+        String title = jsonReader.videoTitle(jsonText);
+        String author = jsonReader.videoAuthor(jsonText);
 
-//        jsonReader.videoTitle(jsonText);
-
-        return new VideoInfo(description, tags);
+        return new VideoInfo(description, tags, title, author);
     }
 
 }
